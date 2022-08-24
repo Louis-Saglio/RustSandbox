@@ -1,0 +1,62 @@
+Units : 12 vs 8
+Winning rate : 0.79
+Attackers remaining : 5.71
+Defenders remaining : 0.65
+Defenders strategy : 0
+Sample size : 10_000_000
+
+
+Units : 12 vs 8
+Winning rate : 0.77
+Attackers remaining : 5.42
+Defenders remaining : 0.70
+Defenders strategy : 1
+Sample size : 10_000_000
+
+
+Units : 12 vs 8
+Winning rate : 0.77
+Attackers remaining : 5.35
+Defenders remaining : 0.71
+Defenders strategy : 2
+Sample size : 10_000_000
+
+
+Units : 12 vs 8
+Winning rate : 0.77
+Attackers remaining : 5.36
+Defenders remaining : 0.70
+Defenders strategy : 3
+Sample size : 10_000_000
+
+
+Units : 12 vs 8
+Winning rate : 0.73
+Attackers remaining : 5.01
+Defenders remaining : 0.85
+Defenders strategy : 1.9
+Sample size : 10_000_000
+
+
+Units : 12 vs 8
+Winning rate : 0.84
+Attackers remaining : 6.12
+Defenders remaining : 0.46
+Defenders strategy : 1.7
+Sample size : 10_000_000
+
+
+Units : 12 vs 12
+Winning rate : 0.51
+Attackers remaining : 3.41
+Defenders remaining : 2.33
+Defenders strategy : 0
+Sample size : 10_000_000
+
+
+Units : 12 vs 12
+Winning rate : 0.45
+Attackers remaining : 3.05
+Defenders remaining : 2.57
+Defenders strategy : 1
+Sample size : 10_000_000
